@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>🧩 UnlimitFavStickers</h1>
+  <h1>
+    <img src="sticker.webp" width="60" valign="middle" alt="Icon"> 
+    UnlimitFavStickers
+  </h1>
   <p>
     <a href="#-описание-ru">🇷🇺 Русский</a> •
     <a href="#-description-en">🇬🇧 English</a>
