@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="Version">
     </a>
     <a href="https://github.com/Zhmur1k/UnlimitFavStickers">
-      <img src="https://img.shields.io/badge/Telegram-12.5.1+-blue?style=flat-square&logo=telegram" alt="Minimum Telegram version">
+      <img src="https://img.shields.io/badge/AyuGram%20%2F%20ExteraGram-12.5.1+-blue?style=flat-square&logo=telegram" alt="Supported clients">
     </a>
     <a href="https://t.me/Mr_Zhmurik">
       <img src="https://img.shields.io/badge/author-@Mr__Zhmurik-9cf?style=flat-square&logo=telegram" alt="Author">
