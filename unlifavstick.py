@@ -17,11 +17,9 @@ from ui.settings import Header, Switch
 
 __id__ = "unlifavstick"
 __name__ = "UnlimitFavStickers"
-__description__ = (
-    "Removes favorite stickers limit / "
-    "Знімає ліміт улюблених стікерів / "
-    "Снимает лимит избранных стикеров"
-)
+__description__ = """Removes favorite stickers limit
+Знімає ліміт улюблених стікерів
+Снимает лимит избранных стикеров"""
 __author__ = "@Mr_Zhmurik"
 __version__ = "1.0.0"
 __icon__ = "unlifavstick/0"
